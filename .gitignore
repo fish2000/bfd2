@@ -23,11 +23,8 @@
 Icon*
 
 bin/
-etc/
 include/
 instance/Django-*
 instance/bfd2/bfd2/settings.py
 lib/
-logs/
 share/
-var/
