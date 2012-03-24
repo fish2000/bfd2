@@ -1,0 +1,15 @@
+BeautifulSoup
+beautifulsoup4
+Cython
+Pygments
+bpython
+eventlet
+github2
+greenlet
+gunicorn
+httplib2
+psycopg2
+redis
+requests
+simplejson
+xerox

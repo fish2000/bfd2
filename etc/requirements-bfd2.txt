@@ -1,0 +1,5 @@
+django-grappelli
+django-filebrowser
+sortable
+django-cms
+django-wordpress
